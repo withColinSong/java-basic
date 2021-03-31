@@ -24,3 +24,27 @@ Variable
 3. 문자 리터럴과 문자열 리터럴
 4. 문자열 결합
 ```
+
+### [03. data_type](03.data_type.md)
+기본형과 참조형
+
+```
+목차
+
+1. 기본형(primitive type)
+    1.1 기본형의 종류
+    1.2. 기본형의 크기
+    1.2. 기본형의 범위
+2. 참조형(reference type)
+
+```
+
+### [04. printf 메서드](04.printf.md)
+
+printf
+
+```
+목차
+
+1. printf 지시자
+```
