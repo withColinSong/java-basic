@@ -1,4 +1,15 @@
+# 목차
+- [목차](#목차)
+- [Chapter2](#chapter2)
+    - [01.variable](#01variable)
+    - [02. constant](#02-constant)
+    - [03. data_type](#03-data_type)
+    - [04. printf 메서드](#04-printf-메서드)
+    - [05. 연습문제](#05-연습문제)
+
 # Chapter2
+
+
 
 ### [01.variable](01.variable.md)
 Variable
@@ -48,3 +59,5 @@ printf
 
 1. printf 지시자
 ```
+
+### [05. 연습문제](05.exercise.md)
