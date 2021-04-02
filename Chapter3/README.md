@@ -1,5 +1,9 @@
 # 목차
 - [목차](#목차)
+    - [01.operator](#01operator)
+    - [02.calculator](#02calculator)
+    - [03.Math.round().md)](#03mathround)
+    - [04.연습문제](#04연습문제)
 
 ### [01.operator](01.operator.md)
 Operator
@@ -35,3 +39,5 @@ Math.round 반올림 메서드
 
 1. Math.round()
 ```
+
+### [04.연습문제](04.exericse.md)
