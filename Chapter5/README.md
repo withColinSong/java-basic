@@ -2,6 +2,7 @@
 - [목차](#목차)
     - [01. Array](#01-array)
     - [02. Array use](#02-array-use)
+    - [03. String Array](#03-string-array)
 
 
 ### [01. Array](01.array.md)
@@ -23,4 +24,12 @@
 1.배열의 활용
     1.1 shuffle
     1.2. 로또 번호 만들기
+```
+
+### [03. String Array](03.String.md)
+```
+목차
+
+1. String 배열의 선언과 생성
+2. String 클래스(readOnly)
 ```
