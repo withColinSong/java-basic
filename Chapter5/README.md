@@ -3,6 +3,7 @@
     - [01. Array](#01-array)
     - [02. Array use](#02-array-use)
     - [03. String Array](#03-string-array)
+    - [04. 2차원 배열](#04-2차원-배열)
 
 
 ### [01. Array](01.array.md)
@@ -34,7 +35,7 @@
 2. String 클래스(readOnly)
 ```
 
-### [04. String Array]
+### [04. 2차원 배열](04.multi-array.md)
 ```
 목차
 

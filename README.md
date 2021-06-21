@@ -10,3 +10,5 @@
 ### [Chapter3](Chapter3)
 ### [Chapter4](Chapter4)
 ### [Chapter5](Chapter5)
+### [Chapter6](Chapter6)
+### [Chapter7](Chapter7)
