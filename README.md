@@ -10,10 +10,7 @@
 ### [Chapter3](Chapter3)
 ### [Chapter4](Chapter4)
 ### [Chapter5](Chapter5)
-<<<<<<< HEAD
 ### [Chapter6](Chapter6)
 ### [Chapter7](Chapter7)
-=======
 ### [Chapter7](Chapter7)
 ### [Chapter8](Chapter8)
->>>>>>> 37ca906939acd4330edcf1c9d14217c15242ac00
